@@ -11,7 +11,7 @@
 Если вы сделали всё правильно, то приложение запустится и на GET http://localhost:9999/api/cards выдаст вам JSON с картами:
   
 
-![](C:\Gradle\Screenshot_96.png)
+![](Screenshot_96.png)
 
 
 
