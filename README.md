@@ -11,7 +11,9 @@
 Если вы сделали всё правильно, то приложение запустится и на GET http://localhost:9999/api/cards выдаст вам JSON с картами:
   
 
-![](Screenshot_96.png)
+![](\.idea\Screenshot_96.png)
+ 
+
 
 
 
